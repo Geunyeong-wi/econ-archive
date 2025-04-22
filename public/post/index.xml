@@ -8,11 +8,95 @@
     <language>ko-kr</language>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2020년 일반행정 제1문</title>
+      <link>http://localhost:1313/post/2020-q1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020-q1/</guid>
+      <description>&lt;p&gt;다음 물음에 답하시오. (총 50점)&lt;/p&gt;&#xA;&lt;p&gt;두 재화 $x_1$, $x_2$와 두 경제주체 A, B로 구성된 순수교환경제를 가정하자. A와 B의 효용함수는 다음과 같다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A: $U_A(x_1, x_2) = x_1 x_2^2$&lt;/li&gt;&#xA;&lt;li&gt;B: $U_B(x_1, x_2) = x_1^2 x_2$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A와 B의 초기부존량 $(x_1, x_2)$는 각각 $e_A = (9, 3)$, $e_B = (12, 6)$이다.&lt;br&gt;&#xA;A와 B가 각자의 효용을 극대화하는 과정을 통해 시장은 일반균형을 달성한다.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;$x_1$, $x_2$의 균형배분을 구하고, 일반균형에서 상대가격체계가 중요한 이유를 설명하시오. (10점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;각 재화에 대한 초과수요함수를 도출하고, 왈라스법칙(Walras’ Law)이 성립함을 보이시오. (10점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2020년 일반행정 제2문</title>
+      <link>http://localhost:1313/post/2020-q2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020-q2/</guid>
+      <description>&lt;p&gt;어떤 경제의 거시경제 상황은 다음과 같다.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;오쿤의-법칙-y_t---overliney---24u_t---u_n&#34;&gt;총수요곡선: $Y_t = 600 + 10(m_t - \pi_t)$&lt;br&gt;&#xA;총공급곡선: $Y_t = \overline{Y} + (\pi_t - \pi_t^e)$&lt;br&gt;&#xA;오쿤의 법칙: $Y_t - \overline{Y} = -2.4(u_t - u_n)$&lt;/h2&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;$\pi_t$, $\pi_t^e$, $Y_t$, $u_t$, $m_t$는 각각 인플레이션율, 기대인플레이션율, 총생산, 실업률, 통화증가율을 나타낸다.&lt;br&gt;&#xA;단, 자연율 수준에서 총생산 $\overline{Y}$과 실업률 $u_n$은 각각 500과 4%이고, 인플레이션율, 통화증가율 및 실업률의 단위는 %이다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 30점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;통화증가율이 장기간 30%로 유지되어 왔고, 앞으로도 계속 30%로 유지될 경우&lt;br&gt;&#xA;$\pi_t$, $\pi_t^e$, $Y_t$, $u_t$를 각각 구하시오. (8점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2020년 일반행정 제3문</title>
+      <link>http://localhost:1313/post/2020-q3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020-q3/</guid>
+      <description>&lt;p&gt;한 소비자의 효용함수는 $U(x, y) = x^{1/3}y^{1/3}$ 이며, 소득은 150이고 두 재화의 가격은 각각 $p_x = 1$, $p_y = 2$이다.&lt;/p&gt;&#xA;&lt;p&gt;이 소비자는 두 재화를 구입하고 난 후 남은 돈을 금융자산에 투자한다고 하자.&lt;br&gt;&#xA;금융자산은 위험자산 $A$와 무위험자산 $B$로 구성되며, $A$의 기대수익률은 10%, 표준편차는 15%, $B$의 수익률은 5%이다.&lt;br&gt;&#xA;소비자는 효용함수 $U = C - \dfrac{1}{2}AV(C)\sigma^2$ 에 따라 위험자산에 대한 태도를 결정하며, 여기서 $C$는 기댓값, $\sigma^2$는 분산, $AV(C)$는 위험회피계수이다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 25점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2021년 일반행정 제1문</title>
+      <link>http://localhost:1313/post/2021-q1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-q1/</guid>
+      <description>&lt;p&gt;제 1 문. 기업 A의 이윤은 다음 표와 같이 기업에 고용된 관리인의 노력 정도와 외부 환경요인에 의해 결정된다.&lt;br&gt;&#xA;표 안의 수치는 관리인의 임금을 지불하기 전의 기업이윤을 의미한다.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;외부 환경&lt;/th&gt;&#xA;          &lt;th&gt;적은 노력&lt;/th&gt;&#xA;          &lt;th&gt;많은 노력&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;나쁨&lt;/td&gt;&#xA;          &lt;td&gt;1,000만 원&lt;/td&gt;&#xA;          &lt;td&gt;2,000만 원&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;좋음&lt;/td&gt;&#xA;          &lt;td&gt;2,000만 원&lt;/td&gt;&#xA;          &lt;td&gt;4,000만 원&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;기업 A의 기업주는 실제로 관리인이 얼마만큼의 노력을 투입했는지 파악할 수 없다.&lt;br&gt;&#xA;그리고 기업주와 관리인 모두 어떤 외부 환경이 발생했는지를 정확히 아는 것은 불가능하지만,&lt;br&gt;&#xA;나쁜 외부 환경과 좋은 외부 환경이 나타날 확률은 각각 50%로 알려져 있다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2021년 일반행정 제2문</title>
+      <link>http://localhost:1313/post/2021-q2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-q2/</guid>
+      <description>&lt;p&gt;제 2 문. 노동의 한계생산체감 법칙이 성립하는 경우,&lt;br&gt;&#xA;노동 수요곡선은 임금이 상승하면 감소하고, 임금이 하락하면 증가하는 우하향하는 형태를 띤다.&lt;br&gt;&#xA;이러한 노동 수요곡선은 재화시장과 노동시장 간의 연계를 고려하여 파생될 수 있으며,&lt;br&gt;&#xA;노동 수요의 탄력성은 기업의 기술구조, 생산물의 수요 탄력성 등에 따라 달라질 수 있다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 20점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;경쟁시장 구조를 갖는 기업이 이윤극대화 관점에서 노동을 고용하는 과정을&lt;br&gt;&#xA;생산함수, 비용함수, 수입함수를 바탕으로 도출하시오. (10점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;노동 수요의 가격탄력성에 영향을 미치는 요인들에 대해 설명하시오.&lt;br&gt;&#xA;(힌트: 대체 가능성, 수요 탄력성, 요소 투입 비중 등) (10점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2021년 일반행정 제3문</title>
+      <link>http://localhost:1313/post/2021-q3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-q3/</guid>
+      <description>&lt;p&gt;제 3 문. 다음은 두 재화 A, B에 대한 소비자의 선택에 관한 도표이다.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;선택안&lt;/th&gt;&#xA;          &lt;th&gt;재화 A 소비량&lt;/th&gt;&#xA;          &lt;th&gt;재화 B 소비량&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;α&lt;/td&gt;&#xA;          &lt;td&gt;1단위&lt;/td&gt;&#xA;          &lt;td&gt;8단위&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;β&lt;/td&gt;&#xA;          &lt;td&gt;2단위&lt;/td&gt;&#xA;          &lt;td&gt;4단위&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;γ&lt;/td&gt;&#xA;          &lt;td&gt;3단위&lt;/td&gt;&#xA;          &lt;td&gt;2단위&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;소비자는 위와 같은 세 가지 선택안 가운데 어느 하나를 선택할 수 있으며,&lt;br&gt;&#xA;선택안은 소비자의 예산과 가격에 따라 달라질 수 있다.&lt;br&gt;&#xA;소비자는 항상 완전한 정보와 일관된 선호체계를 가지고 선택을 한다고 가정한다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 20점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;위 도표에서 소비자의 선택 행동이 합리적이라고 판단할 수 있는지,&lt;br&gt;&#xA;또는 비합리적인지 설명하시오. (10점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022년 일반행정 제1문</title>
+      <link>http://localhost:1313/post/2022-q1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-q1/</guid>
+      <description>&lt;p&gt;제 1 문. 독점적으로 운영되는 놀이공원이 이윤극대화를 목표로 가격정책을 모색하고 있다.&lt;br&gt;&#xA;놀이공원을 이용하는 소비자는 두 그룹(그룹 1 및 그룹 2)으로 구분되는데,&lt;br&gt;&#xA;그룹 1에 속하는 소비자는 100명이며 그룹 2에 속하는 소비자는 400명이다.&lt;br&gt;&#xA;두 그룹의 연간 개별 수요함수는 다음과 같다.&lt;br&gt;&#xA;(단, $Q_i$는 그룹 $i$에 속하는 개별 소비자의 연간 입장 횟수, $P$는 개별 소비자가 지불하는 회당 입장권 가격이다)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;그룹 1: $Q_1 = 20 - \frac{1}{1,000}P$&lt;/li&gt;&#xA;&lt;li&gt;그룹 2: $Q_2 = 2 - \frac{1}{10,000}P$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;개별 소비자의 입장에서 소비자의 후생 수준(소비자 잉여)이 동일하다면 소비자는 한 번이라도 더 많이 놀이공원을 이용하는 것을 선호한다.&lt;br&gt;&#xA;놀이공원의 연간 운영비용은 입장객 수와 관계없이 2천만 원이며, 놀이공원 측은 개별 수요자가 그룹 1인지 그룹 2인지 사전적으로 구분할 수 없다.&lt;br&gt;&#xA;다음 물음에 답하시오. (총 50점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022년 일반행정 제2문</title>
+      <link>http://localhost:1313/post/2022-q2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-q2/</guid>
+      <description>&lt;p&gt;제 2 문. 정부부채와 재정수지는 다음의 관계를 만족한다.&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;G_t + rB_{t-1} = T_t + (B_t - B_{t-1})&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;(단, $B$: 실질 정부부채, $G$: 실질 정부지출, $T$: 실질 조세수입, $r$: 실질이자율)&lt;/p&gt;&#xA;&lt;p&gt;한편, 실질 GDP 증가율과 실질이자율은 일정하다고 가정한다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 30점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;실질 GDP 대비 실질 정부부채 비율 $B/Y$가 일정하기 위한 조건을 구하시오. (8점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;중앙은행이 통화증발을 통해 정부부채를 화폐화할 수 있는 경우, 위 조건은 어떻게 달라지는지를 설명하고 그 의미를 논하시오. (14점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022년 일반행정 제3문</title>
+      <link>http://localhost:1313/post/2022-q3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-q3/</guid>
+      <description>&lt;p&gt;제 3 문. 세 기업 A, B, C가 존재하며, 두 국가(자국, 외국)에서 차별화된 제품에 대해 가격경쟁을 한다.&lt;br&gt;&#xA;기업 A, B는 자국 기업이며, A는 가격선도기업이고 B는 추종기업이다.&lt;br&gt;&#xA;기업 A는 외국 시장에서 외국 기업 C와 경쟁한다. 각 시장의 수요함수는 다음과 같다.&lt;/p&gt;&#xA;&lt;p&gt;○ 자국 시장:&lt;br&gt;&#xA;$P_A = 6 - \frac{1}{2}Q_A + \frac{1}{2}P_B$,&lt;br&gt;&#xA;$P_B = 6 - \frac{1}{2}Q_B + \frac{1}{2}P_A$&lt;/p&gt;&#xA;&lt;p&gt;○ 외국 시장:&lt;br&gt;&#xA;$P_A = 6 - \frac{1}{2}Q_A + \frac{1}{2}P_C$,&lt;br&gt;&#xA;$P_C = 6 - \frac{1}{2}Q_C + \frac{1}{2}P_A$&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>2023년 일반행정 제1문</title>
       <link>http://localhost:1313/post/2023-q1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2023-q1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;어떤 마을에 $n$명의 농부가 살고 있다. 농부 $i$가 사육하는 소의 숫자를 $x_i$라 하고,&lt;br&gt;&#xA;마을 전체 소의 숫자를 $X = \sum_{i=1}^{n} x_i$라고 하자.&lt;br&gt;&#xA;이 마을 소에 대한 수요함수는 $P = 1{,}000 - X$이다. 단, $X \leq 1{,}000$임.&lt;/p&gt;&#xA;&lt;p&gt;농부 $i$의 이윤은 다음과 같다.&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\pi_i = P \cdot x_i - c(x_i) = (1{,}000 - X)x_i - x_i^2&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;이윤은 가격 $\times$ 판매량 $-$ 비용의 형태이며, 비용은 $c(x_i) = x_i^2$이다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;1) 농부 $i$의 최적 반응 함수 (best response function)를 구하시오. (8점)&lt;/p&gt;</description>
+      <description>&lt;p&gt;어느 시골 마을에서 $n$명의 동질적인 농부가 공용목초지에 소를 방목하고 있다.&lt;br&gt;&#xA;따라서 소의 사육비용은 들지 않고 소 마릿수에도 제한이 없다.&lt;br&gt;&#xA;농부 $i$가 사육하는 소의 숫자는 $x_i$, 마을 전체 소의 숫자는 $X = \sum_{i=1}^{n} x_i$이며,&lt;br&gt;&#xA;이 마을 소에 대한 수요함수는 $P = 1,000 - X$이다. 다음 물음에 답하시오. (총 24점)&lt;/p&gt;&#xA;&lt;p&gt;(단, $n \geq 2$이다)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;자신의 이윤을 극대화하려는 농부들이 독립적으로 그리고 동시에 $x_i$를 결정한다면,&lt;br&gt;&#xA;각 농부는 몇 마리의 소를 사육하고, 마을의 공용목초지에는 총 몇 마리의 소가 사육되는지 구하시오. (8점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2023년 일반행정 제2문</title>
+      <link>http://localhost:1313/post/2023-q2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-q2/</guid>
+      <description>&lt;p&gt;기업 A는 직원의 노력 수준 $e$에 대해 정확히 알지 못한다.&lt;br&gt;&#xA;직원의 노력 수준과 관찰 가능한 재화의 생산량 $q$ 간에는 $q = e + u$의 관계가 성립하며,&lt;br&gt;&#xA;불확실성을 반영하는 $u$의 평균과 분산은 각각 $E(u) = 0$, $Var(u) = \sigma^2$이다.&lt;br&gt;&#xA;한편, 직원의 노력 수준에 대한 비용함수는 $c(e) = \frac{1}{2}e^2$이며,&lt;br&gt;&#xA;해당 직원이 다른 회사에서 일하는 경우 받을 수 있는 최대 보수는 $w_0$이다.&lt;/p&gt;&#xA;&lt;p&gt;기업 A가 적용하는 직원에 대한 임금체계는 $s(q) = \alpha + \beta q$이며,&lt;br&gt;&#xA;이 기업은 기대이윤을 극대화하는 $(\alpha, \beta)$를 설계하고자 한다.&lt;br&gt;&#xA;해당 기업이 생산하는 재화의 가격은 1이며, 직원과 기업은 모두 위험중립적이다.&lt;br&gt;&#xA;다음 물음에 답하시오. (총 26점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2023년 일반행정 제3문</title>
+      <link>http://localhost:1313/post/2023-q3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-q3/</guid>
+      <description>&lt;p&gt;다음 물음에 답하시오. (총 20점)&lt;/p&gt;&#xA;&lt;p&gt;솔로우 성장모형에서 생산함수가 다음과 같이 콥－더글라스 형태로 주어져 있다.&lt;br&gt;&#xA;$Y_t = K_t^\alpha (A_t L_t)^{1 - \alpha}, \quad 0 &amp;lt; \alpha &amp;lt; 1$&lt;br&gt;&#xA;(단, $Y_t$는 국내총생산, $A_t$는 기술수준, $K_t$는 자본량, $L_t$는 노동량, $s$는 저축률, $\delta$는 감가상각률, $n$은 인구증가율, $g$는 기술진보율이다)&lt;/p&gt;&#xA;&lt;p&gt;효율적 노동자 1인당 자본량과 효율적 노동자 1인당 생산량을 각각&lt;br&gt;&#xA;$k_t = \frac{K_t}{A_t L_t}$, $y_t = \frac{Y_t}{A_t L_t}$라고 할 때, 다음 물음에 답하시오.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;효율적 노동자 1인당 자본량의 운동 방정식을 제시하고, 균제상태(steady state)에서의 효율적 노동자 1인당 자본량을 구하시오. (8점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2023년 일반행정 제4문</title>
+      <link>http://localhost:1313/post/2023-q4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-q4/</guid>
+      <description>&lt;p&gt;변동환율제 하에서 자본 이동이 완전히 자유로운 소규모 개방경제 모형은 다음과 같다.&lt;/p&gt;&#xA;&lt;p&gt;○ 소비함수: $C = 70 + 0.75Y$&lt;br&gt;&#xA;○ 투자함수: $I = 80 - 10i$&lt;br&gt;&#xA;○ 정부지출: $G = 100$&lt;br&gt;&#xA;○ 순수출함수: $NX = 5E - 100$&lt;br&gt;&#xA;○ 화폐수요함수: $M^D = P(Y - 40i)$&lt;br&gt;&#xA;○ 외환시장의 균형: $i = i^* = 5$&lt;/p&gt;&#xA;&lt;p&gt;(단, $Y$는 국민소득, $i$(%)는 이자율, $i^*$(%)는 세계이자율, $E$는 외국통화 1단위와 교환되는 국내통화의 단위로 표시한 환율, $P$(물가) = 1이다)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
