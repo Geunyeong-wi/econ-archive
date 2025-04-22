@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on 경제학 아카이브</title>
+    <link>https://econ-archive.netlify.app/tags/2019/</link>
+    <description>Recent content in 2019 on 경제학 아카이브</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <atom:link href="https://econ-archive.netlify.app/tags/2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2019년 일반행정 제1문</title>
+      <link>https://econ-archive.netlify.app/post/2019-q1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://econ-archive.netlify.app/post/2019-q1/</guid>
+      <description>&lt;p&gt;기업 A는 생산과정에서 부정적 외부효과를 유발하는 오염물질을 배출하고 있다. 해당 오염물질의 배출량을 $e$라고 하자. 기업 A가 부담하는 한계저감비용은 $(-e+2)$이며, 외부효과로 인한 사회적 한계피해비용은 $a \cdot e$이다.&lt;br&gt;&#xA;(단, $0 &amp;lt; a &amp;lt; 2$)&lt;/p&gt;&#xA;&lt;p&gt;정부는 사회적 최적 수준으로 오염물질이 배출되도록 하기 위하여 오염물질의 배출총량을 직접 규제하는 방식과 배출된 오염물질에 가격을 부과하여 규제하는 방식 중 하나를 선택하려고 한다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 50점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;배출총량 규제 시 최적 배출량 수준 $e^&lt;em&gt;$와 가격 규제 시 오염물질 1단위당 부과해야 하는 가격 $p^&lt;/em&gt;$를 각각 구하시오. (8점)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2019년 일반행정 제2문</title>
+      <link>https://econ-archive.netlify.app/post/2019-q2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://econ-archive.netlify.app/post/2019-q2/</guid>
+      <description>&lt;p&gt;제 2 문. 재정수지와 정부부채 관련 다음 물음에 답하시오. (총 30점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;현재 $t$기 말의 정부부채($B_t$)는 100이다. $t+2$기 말에 이 정부부채를 완전히 상환하기 위하여 필요한 세금($T_{t+2}$)의 크기를 구하고, 이로부터 재정운영에 대한 시사점을 설명하시오. (단, 실질이자율($r$)은 10%, 정부지출($G_{t+2}$)은 100, $t+1$기의 재정수지는 균형이다) (20점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;위의 1)을 통해 GDP 대비 정부부채 비율과 경제성장률($g$)의 관계를 설명하시오. (10점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>2019년 일반행정 제3문</title>
+      <link>https://econ-archive.netlify.app/post/2019-q3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://econ-archive.netlify.app/post/2019-q3/</guid>
+      <description>&lt;p&gt;제3문. A국과 B국 두 국가만 존재하는 세계경제를 가정하자. 두 국가는 노동과 자본을 투입하여 X재를 생산하고, 동일한 생산기술을 보유하고 있으며, 각국 노동(L)의 한계생산은 다음과 같다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;--𝐌𝐏𝐋--𝟓𝟎--𝐋&#34;&gt;○  𝐌𝐏𝐋 = 𝟓𝟎 − 𝐋&lt;/h2&gt;&#xA;&lt;p&gt;X재 시장은 완전경쟁적이고, 해당 상품의 가격이 두 국가 모두에서 1이라고 하자. A국은 20단위의 노동력을, B국은 40단위의 노동력을 각각 가지고 있다. 국가 간의 노동 이동이 자유로울 때, 다음 물음에 답하시오. (총 20점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;노동 이동이 불가능할 때와 비교하여, A국과 B국의 GDP와 요소소득은 어떻게 변화하는지 분석하시오. (12점)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

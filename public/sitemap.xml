@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/2020/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2020-q1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2020-q2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2020-q3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/2021/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2021-q1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2021-q2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2021-q3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2022-q1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2022-q2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2022-q3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2023-q1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2023-q2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2023-q3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/2023-q4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://econ-archive.netlify.app/post/</loc>
   </url>
 </urlset>

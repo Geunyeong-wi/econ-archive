@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021 on 경제학 아카이브</title>
-    <link>http://localhost:1313/tags/2021/</link>
+    <link>https://econ-archive.netlify.app/tags/2021/</link>
     <description>Recent content in 2021 on 경제학 아카이브</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="http://localhost:1313/tags/2021/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://econ-archive.netlify.app/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021년 일반행정 제1문</title>
-      <link>http://localhost:1313/post/2021-q1/</link>
+      <link>https://econ-archive.netlify.app/post/2021-q1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-q1/</guid>
+      <guid>https://econ-archive.netlify.app/post/2021-q1/</guid>
       <description>&lt;p&gt;제 1 문. 기업 A의 이윤은 다음 표와 같이 기업에 고용된 관리인의 노력 정도와 외부 환경요인에 의해 결정된다.&lt;br&gt;&#xA;표 안의 수치는 관리인의 임금을 지불하기 전의 기업이윤을 의미한다.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;외부 환경&lt;/th&gt;&#xA;          &lt;th&gt;적은 노력&lt;/th&gt;&#xA;          &lt;th&gt;많은 노력&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;나쁨&lt;/td&gt;&#xA;          &lt;td&gt;1,000만 원&lt;/td&gt;&#xA;          &lt;td&gt;2,000만 원&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;좋음&lt;/td&gt;&#xA;          &lt;td&gt;2,000만 원&lt;/td&gt;&#xA;          &lt;td&gt;4,000만 원&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;기업 A의 기업주는 실제로 관리인이 얼마만큼의 노력을 투입했는지 파악할 수 없다.&lt;br&gt;&#xA;그리고 기업주와 관리인 모두 어떤 외부 환경이 발생했는지를 정확히 아는 것은 불가능하지만,&lt;br&gt;&#xA;나쁜 외부 환경과 좋은 외부 환경이 나타날 확률은 각각 50%로 알려져 있다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021년 일반행정 제2문</title>
-      <link>http://localhost:1313/post/2021-q2/</link>
+      <link>https://econ-archive.netlify.app/post/2021-q2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-q2/</guid>
+      <guid>https://econ-archive.netlify.app/post/2021-q2/</guid>
       <description>&lt;p&gt;제 2 문. 노동의 한계생산체감 법칙이 성립하는 경우,&lt;br&gt;&#xA;노동 수요곡선은 임금이 상승하면 감소하고, 임금이 하락하면 증가하는 우하향하는 형태를 띤다.&lt;br&gt;&#xA;이러한 노동 수요곡선은 재화시장과 노동시장 간의 연계를 고려하여 파생될 수 있으며,&lt;br&gt;&#xA;노동 수요의 탄력성은 기업의 기술구조, 생산물의 수요 탄력성 등에 따라 달라질 수 있다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 20점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;경쟁시장 구조를 갖는 기업이 이윤극대화 관점에서 노동을 고용하는 과정을&lt;br&gt;&#xA;생산함수, 비용함수, 수입함수를 바탕으로 도출하시오. (10점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;노동 수요의 가격탄력성에 영향을 미치는 요인들에 대해 설명하시오.&lt;br&gt;&#xA;(힌트: 대체 가능성, 수요 탄력성, 요소 투입 비중 등) (10점)&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021년 일반행정 제3문</title>
-      <link>http://localhost:1313/post/2021-q3/</link>
+      <link>https://econ-archive.netlify.app/post/2021-q3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-q3/</guid>
+      <guid>https://econ-archive.netlify.app/post/2021-q3/</guid>
       <description>&lt;p&gt;제 3 문. 다음은 두 재화 A, B에 대한 소비자의 선택에 관한 도표이다.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;선택안&lt;/th&gt;&#xA;          &lt;th&gt;재화 A 소비량&lt;/th&gt;&#xA;          &lt;th&gt;재화 B 소비량&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;α&lt;/td&gt;&#xA;          &lt;td&gt;1단위&lt;/td&gt;&#xA;          &lt;td&gt;8단위&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;β&lt;/td&gt;&#xA;          &lt;td&gt;2단위&lt;/td&gt;&#xA;          &lt;td&gt;4단위&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;γ&lt;/td&gt;&#xA;          &lt;td&gt;3단위&lt;/td&gt;&#xA;          &lt;td&gt;2단위&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;소비자는 위와 같은 세 가지 선택안 가운데 어느 하나를 선택할 수 있으며,&lt;br&gt;&#xA;선택안은 소비자의 예산과 가격에 따라 달라질 수 있다.&lt;br&gt;&#xA;소비자는 항상 완전한 정보와 일관된 선호체계를 가지고 선택을 한다고 가정한다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 20점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;위 도표에서 소비자의 선택 행동이 합리적이라고 판단할 수 있는지,&lt;br&gt;&#xA;또는 비합리적인지 설명하시오. (10점)&lt;/p&gt;</description>
     </item>
   </channel>
