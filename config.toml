@@ -1,0 +1,14 @@
+baseURL = "https://econ-archive.netlify.app/"
+languageCode = "ko-kr"
+title = "경제학 아카이브"
+theme = "xmin"
+
+[params]
+  description = "수험생을 위한 경제학 기출문제 정리"
+  author = "Geunyeong"
+  math = true  # KaTeX 수식 렌더링
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
