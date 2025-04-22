@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020 on 경제학 아카이브</title>
-    <link>https://econ-archive.netlify.app/tags/2020/</link>
+    <link>http://localhost:1313/tags/2020/</link>
     <description>Recent content in 2020 on 경제학 아카이브</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="https://econ-archive.netlify.app/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020년 일반행정 제1문</title>
-      <link>https://econ-archive.netlify.app/post/2020-q1/</link>
+      <link>http://localhost:1313/post/2020-q1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://econ-archive.netlify.app/post/2020-q1/</guid>
+      <guid>http://localhost:1313/post/2020-q1/</guid>
       <description>&lt;p&gt;다음 물음에 답하시오. (총 50점)&lt;/p&gt;&#xA;&lt;p&gt;두 재화 $x_1$, $x_2$와 두 경제주체 A, B로 구성된 순수교환경제를 가정하자. A와 B의 효용함수는 다음과 같다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A: $U_A(x_1, x_2) = x_1 x_2^2$&lt;/li&gt;&#xA;&lt;li&gt;B: $U_B(x_1, x_2) = x_1^2 x_2$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A와 B의 초기부존량 $(x_1, x_2)$는 각각 $e_A = (9, 3)$, $e_B = (12, 6)$이다.&lt;br&gt;&#xA;A와 B가 각자의 효용을 극대화하는 과정을 통해 시장은 일반균형을 달성한다.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;$x_1$, $x_2$의 균형배분을 구하고, 일반균형에서 상대가격체계가 중요한 이유를 설명하시오. (10점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;각 재화에 대한 초과수요함수를 도출하고, 왈라스법칙(Walras’ Law)이 성립함을 보이시오. (10점)&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020년 일반행정 제2문</title>
-      <link>https://econ-archive.netlify.app/post/2020-q2/</link>
+      <link>http://localhost:1313/post/2020-q2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://econ-archive.netlify.app/post/2020-q2/</guid>
+      <guid>http://localhost:1313/post/2020-q2/</guid>
       <description>&lt;p&gt;어떤 경제의 거시경제 상황은 다음과 같다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;총수요곡선: $Y_t = 600 + 10(m_t - \pi_t)$&lt;/li&gt;&#xA;&lt;li&gt;총공급곡선: $Y_t = \overline{Y} + (\pi_t - \pi_t^e)$&lt;/li&gt;&#xA;&lt;li&gt;오쿤의 법칙: $Y_t - \overline{Y} = -2.4(u_t - u_n)$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;$\pi_t$, $\pi_t^e$, $Y_t$, $u_t$, $m_t$는 각각 인플레이션율, 기대인플레이션율, 총생산, 실업률, 통화증가율을 나타낸다.&lt;br&gt;&#xA;단, 자연율 수준에서 총생산 $\overline{Y}$과 실업률 $u_n$은 각각 500과 4%이고, 인플레이션율, 통화증가율 및 실업률의 단위는 %이다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 30점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;통화증가율이 장기간 30%로 유지되어 왔고, 앞으로도 계속 30%로 유지될 경우&lt;br&gt;&#xA;$\pi_t$, $\pi_t^e$, $Y_t$, $u_t$를 각각 구하시오. (8점)&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020년 일반행정 제3문</title>
-      <link>https://econ-archive.netlify.app/post/2020-q3/</link>
+      <link>http://localhost:1313/post/2020-q3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://econ-archive.netlify.app/post/2020-q3/</guid>
+      <guid>http://localhost:1313/post/2020-q3/</guid>
       <description>&lt;p&gt;한 소비자의 효용함수는 $U(x, y) = x^{1/3}y^{1/3}$ 이며, 소득은 150이고 두 재화의 가격은 각각 $p_x = 1$, $p_y = 2$이다.&lt;/p&gt;&#xA;&lt;p&gt;이 소비자는 두 재화를 구입하고 난 후 남은 돈을 금융자산에 투자한다고 하자.&lt;br&gt;&#xA;금융자산은 위험자산 $A$와 무위험자산 $B$로 구성되며, $A$의 기대수익률은 10%, 표준편차는 15%, $B$의 수익률은 5%이다.&lt;br&gt;&#xA;소비자는 효용함수 $U = C - \dfrac{1}{2}AV(C)\sigma^2$ 에 따라 위험자산에 대한 태도를 결정하며, 여기서 $C$는 기댓값, $\sigma^2$는 분산, $AV(C)$는 위험회피계수이다.&lt;/p&gt;&#xA;&lt;p&gt;다음 물음에 답하시오. (총 25점)&lt;/p&gt;</description>
     </item>
   </channel>
