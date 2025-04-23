@@ -36,7 +36,6 @@
 <div id="results"></div>
 <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.js"></script>
 <script>
-
 fetch('\/index.json')
   .then(r => r.json())
   .then(docs => {
@@ -47,22 +46,26 @@ fetch('\/index.json')
       searchOptions: { prefix: true }
     });
     miniSearch.addAll(docs);
-    
-    document.getElementById('searchBox')
-      .addEventListener('input', e => {
-        const q = e.target.value;
-        const hits = q ? miniSearch.search(q) : [];
-        document.getElementById('results').innerHTML = hits.map(h => {
-          
-          const snippet = h.content.length > 200
-            ? h.content.substring(0, 200) + '...'
-            : h.content;
-          return '<div style="margin-bottom:1rem;">'
-            + '<a href="'+h.uri+'"><strong>'+h.title+'</strong></a>'
-            + '<p style="margin:0.5rem 0;">'+snippet+'</p>'
-            + '</div>';
-        }).join('');
-      });
+    const input = document.getElementById('searchBox');
+    const resultsEl = document.getElementById('results');
+    input.addEventListener('input', () => {
+      const q = input.value.trim();
+      if (!q) {
+        resultsEl.innerHTML = '';
+        return;
+      }
+      const hits = miniSearch.search(q);
+      const re = new RegExp('(' + q.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&') + ')','gi');
+      resultsEl.innerHTML = hits.map(h => {
+        let snippet = h.content.substring(0, 100);
+        snippet = snippet.replace(re, '<strong>$1</strong>');
+        if (h.content.length > 100) snippet += '...';
+        return '<div style="margin-bottom:1rem;">'
+          + '<a href="'+h.uri+'"><strong>'+h.title+'</strong></a>'
+          + '<p style="margin:0.5rem 0;">'+snippet+'</p>'
+          + '</div>';
+      }).join('');
+    });
   })
   .catch(err => console.error(err));
 </script>
