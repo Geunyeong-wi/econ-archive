@@ -31,4 +31,5 @@ theme = "xmin"
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "SITEMAP"]
+  section = ["HTML","JSON"]
 

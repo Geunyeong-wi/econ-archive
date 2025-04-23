@@ -8,21 +8,21 @@
     <language>ko-kr</language>
     <atom:link href="http://localhost:1313/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2018년도 일반행정 제1문</title>
+      <title>2018년 일반행정 제1문</title>
       <link>http://localhost:1313/post/2018-q1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2018-q1/</guid>
       <description>&lt;p&gt;제 1 문. 중간재 x를 생산하는 기업 A는 다음과 같은 비용함수를 갖는 공장1과 공장2를 보유하고 있다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;공장-2의-비용함수-c_2x_2--frac12x_22&#34;&gt;공장 1의 비용함수: $c_1(x_1) = x_1$&lt;br&gt;&#xA;공장 2의 비용함수: $c_2(x_2) = \frac{1}{2}x_2^2$&lt;/h2&gt;&#xA;&lt;p&gt;이 기업이 중간재 $x$를 투입하여 최종재 $y$를 생산한다고 할 때, 다음 물음에 답하시오. (총 50점)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;기업 A가 중간재 총생산량 $x = x_1 + x_2$를 최소 비용으로 생산하고자 할 때, 총비용함수 $c(x)$를 구하시오. (20점)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;기업 A의 최종재 $y$에 대한 생산함수는 다음과 같다.&lt;br&gt;&#xA;$$&#xA;y = \sqrt{x}&#xA;$$&lt;br&gt;&#xA;최종재 $y$의 판매가격이 2일 때, 이윤을 극대화하는 최종재 $y$의 생산량과 이윤을 구하시오. (단, 기업 A가 생산한 중간재 $x$는 최종재 $y$의 생산에 모두 투입된다고 가정하자) (10점)&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2018년도 일반행정 제2문</title>
+      <title>2018년 일반행정 제2문</title>
       <link>http://localhost:1313/post/2018-q2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2018-q2/</guid>
       <description>&lt;p&gt;제 2 문. 어떤 경제의 필립스 곡선과 사회후생함수가 다음과 같다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-사회후생함수-w---05u---u2---05pi---pi2&#34;&gt;○ 필립스 곡선: $u = \bar{u} - (\pi - \pi^e)$&lt;br&gt;&#xA;○ 사회후생함수: $W = -0.5(u - u^&lt;em&gt;)^2 - 0.5(\pi - \pi^&lt;/em&gt;)^2$&lt;/h2&gt;&#xA;&lt;p&gt;(단, $u$는 실제 실업률, $\bar{u}$는 자연실업률, $\pi$는 실제 인플레이션율, $\pi^e$는 기대 인플레이션율, $u^&lt;em&gt;$와 $\pi^&lt;/em&gt;$는 각각 사회적으로 최적인 수준의 실업률과 인플레이션율이다)&lt;/p&gt;&#xA;&lt;p&gt;이 경제에는 불확실성이 존재하지 않으며, 사회적으로 최적인 실업률은 자연실업률보다 낮다고 가정한다. 통화정책에 대한 사전적 구속 장치(pre-commitment)가 없는 중앙은행이 필립스 곡선을 제약조건으로 인식하고 사회후생함수를 극대화하는 인플레이션율을 선택한다고 할 때, 다음 물음에 답하시오. (총 30점)&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2018년도 일반행정 제3문</title>
+      <title>2018년 일반행정 제3문</title>
       <link>http://localhost:1313/post/2018-q3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2018-q3/</guid>

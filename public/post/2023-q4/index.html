@@ -32,6 +32,40 @@
     </ul>
     <hr/>
     </nav>
+    <input id="searchBox" placeholder="검색…" style="width:100%;margin-bottom:1rem;"/>
+<div id="results"></div>
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.js"></script>
+<script>
+
+fetch('\/index.json')
+  .then(r => r.json())
+  .then(docs => {
+    const miniSearch = new MiniSearch({
+      fields: ['title','content'],
+      storeFields: ['title','uri','content'],
+      idField: 'uri',
+      searchOptions: { prefix: true }
+    });
+    miniSearch.addAll(docs);
+    
+    document.getElementById('searchBox')
+      .addEventListener('input', e => {
+        const q = e.target.value;
+        const hits = q ? miniSearch.search(q) : [];
+        document.getElementById('results').innerHTML = hits.map(h => {
+          
+          const snippet = h.content.length > 200
+            ? h.content.substring(0, 200) + '...'
+            : h.content;
+          return '<div style="margin-bottom:1rem;">'
+            + '<a href="'+h.uri+'"><strong>'+h.title+'</strong></a>'
+            + '<p style="margin:0.5rem 0;">'+snippet+'</p>'
+            + '</div>';
+        }).join('');
+      });
+  })
+  .catch(err => console.error(err));
+</script>
 
 <div class="article-meta">
 <h1><span class="title">2023년 일반행정 제4문</span></h1>
