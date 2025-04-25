@@ -49,3 +49,39 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+/* 기본 링크 색상 & 장식 제거 */
+a {
+  color: #555;         /* 연한 차콜 그레이 */
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+/* 리스트 항목 호버 시 연한 회색 배경 강조 */
+ul li {
+  padding: 0.3em 0.5em;
+  transition: background 0.2s ease;
+}
+
+ul li:hover {
+  background-color: #f0f0f0;  /* 연한 회색 */
+  border-radius: 4px;
+}
+
+ul li a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* 리스트 아이템의 불릿 색상도 변경하려면 */
+ul li::marker {
+  color: #999;
+}
+
+/* 게시글 제목(링크)만 별도로 강조하려면 */
+.entry-title a {
+  color: #222;
+}
+.entry-title a:hover {
+  border-bottom-color: #222;
+}

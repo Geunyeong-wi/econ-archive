@@ -12,6 +12,10 @@ theme = "xmin"
   [markup.goldmark.renderer]
     unsafe = true
 
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
 [menu]
 
   [[menu.main]]
@@ -32,4 +36,30 @@ theme = "xmin"
 [outputs]
   home = ["HTML", "RSS", "JSON", "SITEMAP"]
   section = ["HTML","JSON"]
+
+[frontmatter]
+
+[[frontmatter.defaults]]
+  [frontmatter.defaults.scope]
+  path = "post/general"
+  [frontmatter.defaults.values]
+  categories = ["일반행정"]
+
+[[frontmatter.defaults]]
+  [frontmatter.defaults.scope]
+  path = "post/finance"
+  [frontmatter.defaults.values]
+  categories = ["재경"]
+
+[[frontmatter.defaults]]
+  [frontmatter.defaults.scope]
+  path = "post/diplomat"
+  [frontmatter.defaults.values]
+  categories = ["외교원"]
+
+[[frontmatter.defaults]]
+  [frontmatter.defaults.scope]
+  path = "post/legislative"
+  [frontmatter.defaults.values]
+  categories = ["입법고시"]
 
