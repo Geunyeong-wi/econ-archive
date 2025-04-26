@@ -10,11 +10,18 @@
   </head>
 
   <body>
-    <nav>
-    <ul class="menu">
-      {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-    <hr/>
-    </nav>
+	<nav>
+	  {{- $current := . -}}
+	  <ul class="menu">
+	    {{- range .Site.Menus.main -}}
+	      <li>
+	        <a href="{{ .URL | relURL }}" 
+	          class="nav-link{{ if .IsMenuCurrent $current }} active{{ end }}"
+	        >
+	          {{ .Name }}
+	        </a>
+	      </li>
+	    {{- end -}}
+	  </ul>
+	  <hr/>
+	</nav>

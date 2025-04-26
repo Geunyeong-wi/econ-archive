@@ -75,8 +75,10 @@ ul li a {
 
 /* 리스트 아이템의 불릿 색상도 변경하려면 */
 ul li::marker {
-  color: #999;
+  color: #333;
+  font-size: 0.75em; /* 크기 조정(선택) */
 }
+
 
 /* 게시글 제목(링크)만 별도로 강조하려면 */
 .entry-title a {
@@ -85,3 +87,84 @@ ul li::marker {
 .entry-title a:hover {
   border-bottom-color: #222;
 }
+
+/* ─── 메뉴바 심플 테두리 스타일 (강조=검정) ─── */
+ul.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+ul.menu li a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;     /* 연한 회색 테두리 */
+  background: transparent;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+ul.menu li a:hover,
+ul.menu li a:focus {
+  border-color: #000;         /* 강조 색상 검정 */
+  color: #000;
+  background: transparent;
+}
+
+/* (선택) 현재 페이지 강조 */
+ul.menu li a.active {
+  border-color: #000;
+  color: #000;
+}
+
+/* 메뉴바 호버 시 배경색 제거 */
+ul.menu li:hover {
+  background: none !important;
+}
+
+/* ─── 검색창 스타일 ─── */
+.search-input {
+  width: 100%;
+  max-width: 360px;          /* 원하는 최대 너비로 조정 */
+  padding: 0.5rem 1rem;      /* 위아래·좌우 여백 */
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;    /* 연한 회색 테두리 */
+  border-radius: 9999px;     /* 완전 둥글게 */
+  transition: border-color 0.2s;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #000;        /* 포커스 시 검정 테두리 강조 */
+}
+
+/* 결과목록 간단 스타일 */
+#results {
+  margin-top: 1rem;
+}
+#results > div {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+#results a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 500;
+}
+#results a:hover {
+  text-decoration: underline;
+}
+#results p {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+
+

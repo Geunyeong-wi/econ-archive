@@ -1,4 +1,4 @@
-<input id="searchBox" placeholder="검색…" style="width:100%;margin-bottom:1rem;"/>
+<input id="searchBox" class="search-input" placeholder="검색" />
 <div id="results"></div>
 <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.js"></script>
 <script>
@@ -34,4 +34,7 @@ fetch('{{ "index.json" | relURL }}')
     });
   })
   .catch(err => console.error(err));
+
+
+
 </script>
