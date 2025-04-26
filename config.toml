@@ -55,7 +55,7 @@ theme = "xmin"
   [frontmatter.defaults.scope]
   path = "post/diplomat"
   [frontmatter.defaults.values]
-  categories = ["외교원"]
+  categories = ["외교관후보자"]
 
 [[frontmatter.defaults]]
   [frontmatter.defaults.scope]
