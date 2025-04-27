@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://econ-archive.netlify.app/sitemap.xml
 
