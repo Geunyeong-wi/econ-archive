@@ -39,9 +39,9 @@ theme = "xmin"
     weight = 3
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "SITEMAP"]
-  section = ["HTML","JSON", "SITEMAP"]
-  page = ["HTML", "SITEMAP"] 
+  home = ["HTML", "RSS", "SITEMAP"]
+  section = ["HTML", "RSS", "SITEMAP"]
+  page = ["HTML", "SITEMAP"]
 
 [frontmatter]
 
