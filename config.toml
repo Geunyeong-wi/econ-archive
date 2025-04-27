@@ -4,7 +4,7 @@ title = "경제학 아카이브"
 theme = "xmin"
 
 [params]
-  description = "수험생을 위한 경제학 기출문제 정리"
+  description = "수험생을 위한 경제학 기출문제 모음"
   author = "Geunyeong"
   math = true  # KaTeX 수식 렌더링
 
