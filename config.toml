@@ -39,7 +39,7 @@ theme = "xmin"
     weight = 3
 
 [outputs]
-  home = ["HTML", "RSS", "SITEMAP"]
+  home = ["HTML", "RSS", "SITEMAP", "JSON"]
   section = ["HTML", "RSS", "SITEMAP"]
   page = ["HTML", "SITEMAP"]
 
