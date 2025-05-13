@@ -8,9 +8,11 @@ tags: ["2024", "여가소득"]
 지난 30년 동안 우리 경제의 총 노동시간은 꾸준히 하락한 반면, 총 여가시간은 꾸준히 상승하였다. 표준적인 실물 경기변동이론으로는 이를 설명하기 어렵다는 비판이 제기되었다. 이 현상을 설명하기 위하여 다음과 같은 대표적 소비자의 효용극대화 문제를 상정한다.
 
 ---
+
 $ \displaystyle \max_{\{c_t,\ell_t\}} \; U(c_t,\ell_t) = \sum_{t=0}^\infty \beta^t \Bigl[ \frac{c_t^{1 - \phi}}{1 - \phi} + \frac{\ell_t^{1 - \theta}}{1 - \theta} \Bigr] $  
 $ c_t = \sum_{i=1}^{n_t} x_{it}, \quad \ell_t + n_t = L $  
-$ x_{it} = x_t\ (\forall i),\quad n_t \text{은 제품 종류, } x_{it} \text{은 개별 소비},\ \ell_t \text{는 여가시간, } w_t \text{는 실질임금} $
+$ x_{it} = x_t\ (\forall i),\quad n_t $ 은 제품 종류, $x_{it}$ 은 개별 소비, $ \ell_t $ 는 여가시간, $w_t $는 실질임금}
+
 ---
 
 여기서 $\phi,\theta\in(0,1)$이며, $n_t$은 시간이 흐를수록 증가한다고 가정한다. (총 40점)
