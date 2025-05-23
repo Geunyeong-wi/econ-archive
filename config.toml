@@ -1,10 +1,10 @@
 baseURL = "https://econ-archive.netlify.app/"
 languageCode = "ko-kr"
-title = "경제학 아카이브"
 theme = "xmin"
+title = "5급 경제학 기출문제 아카이브"
 
 [params]
-  description = "5급공채, 외교관후보자, 입법고시 수험생을 위한 경제학 기출문제 모음"
+  description = "5급 공무원 경제학 기출문제를 연도별로 정리한 아카이브 사이트입니다. 일반행정, 외교원, 입법고시 등 수험생을 위한 자료 제공."
   author = "Geunyeong"
   math = true  # KaTeX 수식 렌더링
 
