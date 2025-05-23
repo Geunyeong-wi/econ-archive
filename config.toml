@@ -29,12 +29,12 @@ title = "5급 경제학 기출문제 아카이브"
     weight = 1
 
   [[menu.main]]
-    name = "시험명"
+    name = "시험별"
     url = "/categories/"
     weight = 2
 
   [[menu.main]]
-    name = "태그"
+    name = "키워드"
     url = "/tags/"
     weight = 3
 
