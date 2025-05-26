@@ -1,5 +1,5 @@
 ---
-title: "2022년 일반행정 제2문"
+title: "2022 5급공채 경제학 2문"
 categories: ["일반행정"]
 tags: ["2022"]
 draft: false

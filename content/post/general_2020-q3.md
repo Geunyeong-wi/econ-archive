@@ -1,5 +1,5 @@
 ---
-title: "2020년 일반행정 제3문"
+title: "2020 5급공채 경제학 3문"
 categories: ["일반행정"]
 tags: ["2020"]
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "2023년 일반행정 제1문"
+title: "2023 5급공채 경제학 1문"
 categories: ["일반행정"]
 tags: ["2023"]
 draft: false
